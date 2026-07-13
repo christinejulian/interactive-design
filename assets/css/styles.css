@@ -10,7 +10,7 @@ body {
 	color: whitesmoke;
 	font-size: 5rem; 
 	overflow: hidden;
-	background-image: url("giphy.gif");
+	background-image: url("https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzc5eDZiOGlnN2hvZmxpaTJxZjIzbHZycTR3aTBoY3FldzExajBicSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pNsBooBjruKnm/giphy.gif");
 	background-position: center;
 	background-repeat: no-repeat;
 	background-size: cover;
