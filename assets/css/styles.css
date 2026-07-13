@@ -18,5 +18,8 @@ body {
 
 .grid-container {
 	display: grid;
-	grid-template-colums: 25% 25% 25% 25%;
+	grid-template-colums: 1rf 1rf 1rf;
+	grid-template-colums: repeat(auto-fit, minmax(320px, 1fr));
+	gap: 2rem;
+	margin: 10% 4rem 0 4rem;
 }
