@@ -18,4 +18,5 @@ body {
 
 .grid-container {
 	display: grid;
+	grid-template-colums: 25% 25% 25% 25%;
 }
